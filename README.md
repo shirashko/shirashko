@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ## Programing Languages & Tools
-![pen](https://user-images.githubusercontent.com/130151997/232245544-2297ab0a-f64d-4432-b8e1-e4d368e4e96f.png)
+![pen](https://user-images.githubusercontent.com/130151997/232245544-2297ab0a-f64d-4432-b8e1-e4d368e4e96f.png width="25" height="25")
