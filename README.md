@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img src="https://logotyp.us/files/r.svg" width= "40" height= "40">
 
-<img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol.jpg" width= "40" height= "40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1bWJMcbcELXTCDXA2-APVmU3vg-wChQucA&usqp=CAU" width= "40" height= "40">
 
 
 
