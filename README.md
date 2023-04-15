@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 ## Programing Languages & Tools
 
+<img src="
+https://www.svgrepo.com/show/376344/python.svg" width= "40" height= "40">
 
 <img src="[https://icon-library.com/images/icon-java/icon-java-6.jpg](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png)" width= "40" height= "40">
+
