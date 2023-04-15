@@ -16,6 +16,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Two Photos Side by Side</title>
+	<style>
+		.container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+		.photo {
+			margin: 10px;
+		}
+		.photo img {
+			display: block;
+			max-width: 100%;
+			height: auto;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="photo">
+			<img src="https://www.svgrepo.com/show/376344/python.svg" alt="Photo 1">
+		</div>
+		<div class="photo">
+			<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Photo 2">
+		</div>
+	</div>
+</body>
+</html>
+
 ## Programing Languages & Tools
 
 <img src="https://www.svgrepo.com/show/376344/python.svg" width= "40" height= "40">
