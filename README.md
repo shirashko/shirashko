@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ## Programing Languages & Tools
 
 
-<img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width= "40" height= "40">
+<img src="https://icon-library.com/images/icon-java/icon-java-6.jpg" width= "40" height= "40">
