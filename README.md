@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width= "40" height= "40">
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width= "40" height= "40">
+
+<img src="https://logotyp.us/files/r.svg" width= "40" height= "40">
+
+<img src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png
+" width= "40" height= "40">
+
