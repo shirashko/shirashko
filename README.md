@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width= "40" height= "40">
 
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width= "40" height= "40">
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width= "40" height= "40">
