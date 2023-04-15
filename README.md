@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img src="https://logotyp.us/files/r.svg" width= "40" height= "40">
 
-<img src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png" width= "40" height= "40">
+<img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol.jpg" width= "40" height= "40">
 
 
 
