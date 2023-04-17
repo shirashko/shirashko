@@ -17,6 +17,18 @@ Here are some ideas to get you started:
 -->
 
 ## Programing Languages & Tools
+<div style="display:flex;gap:20px;margin-top:20px;flex-wrap:wrap;">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
 
 <img src="https://www.svgrepo.com/show/376344/python.svg" width= "40" height= "40">
 
@@ -30,5 +42,6 @@ Here are some ideas to get you started:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1bWJMcbcELXTCDXA2-APVmU3vg-wChQucA&usqp=CAU" width= "40" height= "40">
 
+</div>
 
 
