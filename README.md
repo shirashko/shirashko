@@ -64,7 +64,7 @@ The Image Hole Filling Package is designed to address the task of filling holes 
 
 To use the Image Hole Filling Package in your project, follow these steps:
 
-1. Download the `image-hole-filling.jar` file from the [latest release](https://github.com/shirashko/image-hole-filling/releases).
+1. Download the `image-hole-filling.jar` file from the latest release.
 2. Add the `image-hole-filling.jar` file to your project's classpath.
 
 **Note:**
