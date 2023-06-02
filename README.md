@@ -47,7 +47,6 @@ The Image Hole Filling Package is a Java library that provides functionality for
 - [Usage](#usage)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -128,9 +127,7 @@ tester1.showComparison();
 
 Contributions to the Image Hole Filling Package are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-## License
-
-This project is licensed under the MIT License. Please customize the example code and instructions to match the specific methods and functionality provided by your `HoleFiller` class.
+ Please customize the example code and instructions to match the specific methods and functionality provided by your `HoleFiller` class.
 ```
 
 Please make sure to adjust the instructions and example code to match the specific methods and functionality of your "HoleFiller" class.
