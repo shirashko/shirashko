@@ -94,9 +94,36 @@ HoleFiller.saveImage(filledImage, outputPath);
 
 Make sure to replace the file paths (imagePath, maskPath, outputPath) with the actual paths to your image files.
 
-## Examples
-Here are some examples of how to perform testing on the unfilled and filled images:
+## Usage
 
+Here's an example of how to use the HoleFiller class in your Java code:
+
+```java
+import com.rashkovits.shir.image.holefilling.HoleFiller;
+import com.rashkovits.shir.image.holefilling.NormalizedGrayImage;
+
+// Load an image
+String imagePath = "path/to/image.jpg";
+NormalizedGrayImage image = HoleFiller.loadImage(imagePath);
+
+// Load a mask image
+String maskPath = "path/to/mask.jpg";
+NormalizedGrayImage maskImage = HoleFiller.loadImage(maskPath);
+
+// Apply the hole-filling algorithm
+NormalizedGrayImage filledImage = HoleFiller.fillHole(image, maskImage);
+// or by your speed preference call - NormalizedGrayImage filledImageFast = HoleFiller.fillHoleApproximately(image, maskImage);
+
+// Save the filled image
+String outputPath = "path/to/filled_image.jpg";
+HoleFiller.saveImage(filledImage, outputPath);
+
+Make sure to replace the file paths (imagePath, maskPath, outputPath) with the actual paths to your image files.
+
+## Testing
+The package includes a Testing class that allows you to perform testing on unfilled and filled images. You can use the provided methods, such as showFilledImage(), showHoleBoundaries(), and showComparison(), to visualize and compare the results. **for this you will need to use OpenCV.
+examples:
+// Perform testing on the unfilled and filled images
 Testing tester1 = new Testing(imageToFill, fixed1, connectivity);
 Testing tester2 = new Testing(imageToFill, fixed2, connectivity);
 
@@ -105,8 +132,6 @@ tester1.showFilledImage();
 tester1.showHoleBoundaries();
 tester1.showComparison();
 
-## Testing
-The package includes a Testing class that allows you to perform testing on unfilled and filled images. You can use the provided methods, such as showFilledImage(), showHoleBoundaries(), and showComparison(), to visualize and compare the results.
 
 ## Contributing
 Contributions to the Image Hole Filling Package are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
