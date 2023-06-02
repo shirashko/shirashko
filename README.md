@@ -72,7 +72,6 @@ To use the Image Hole Filling Package in your project, follow these steps:
 
 Here's an example of how to use the HoleFiller class in your Java code:
 
-```java
 import com.rashkovits.shir.image.holefilling.HoleFiller;
 import com.rashkovits.shir.image.holefilling.NormalizedGrayImage;
 
@@ -91,7 +90,7 @@ NormalizedGrayImage filledImage = HoleFiller.fillHole(image, maskImage);
 // Save the filled image
 String outputPath = "path/to/filled_image.jpg";
 HoleFiller.saveImage(filledImage, outputPath);
-```
+
 Make sure to replace the file paths (imagePath, maskPath, outputPath) with the actual paths to your image files.
 
 ## Usage
