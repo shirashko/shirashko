@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 
 </div>
 
-Certainly! I've made some adjustments to the README file to fix the formatting issue and added information about OpenCV. Please find the updated version below:
 
-```
+
 # Image Hole Filling Package
 
 The Image Hole Filling Package is a Java library that provides functionality for filling holes in grayscale images.
