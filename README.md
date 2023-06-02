@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 
 </div>
 
+Certainly! I've made some adjustments to the README file to fix the formatting issue and added information about OpenCV. Please find the updated version below:
 
+```
 # Image Hole Filling Package
 
 The Image Hole Filling Package is a Java library that provides functionality for filling holes in grayscale images.
@@ -44,7 +46,6 @@ The Image Hole Filling Package is a Java library that provides functionality for
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
@@ -67,32 +68,9 @@ To use the Image Hole Filling Package in your project, follow these steps:
 
 1. Download the `image-hole-filling.jar` file from the [latest release](https://github.com/shirashko/image-hole-filling/releases).
 2. Add the `image-hole-filling.jar` file to your project's classpath.
-**add information about openCV?
 
-## Usage
-
-Here's an example of how to use the HoleFiller class in your Java code:
-
-import com.rashkovits.shir.image.holefilling.HoleFiller;
-import com.rashkovits.shir.image.holefilling.NormalizedGrayImage;
-
-// Load an image
-String imagePath = "path/to/image.jpg";
-NormalizedGrayImage image = HoleFiller.loadImage(imagePath);
-
-// Load a mask image
-String maskPath = "path/to/mask.jpg";
-NormalizedGrayImage maskImage = HoleFiller.loadImage(maskPath);
-
-// Apply the hole-filling algorithm
-NormalizedGrayImage filledImage = HoleFiller.fillHole(image, maskImage);
-// or use the faster approximation: NormalizedGrayImage filledImageFast = HoleFiller.fillHoleApproximately(image, maskImage);
-
-// Save the filled image
-String outputPath = "path/to/filled_image.jpg";
-HoleFiller.saveImage(filledImage, outputPath);
-
-Make sure to replace the file paths (imagePath, maskPath, outputPath) with the actual paths to your image files.
+**Note:**
+This package depends on OpenCV for image processing operations. Please ensure that you have OpenCV installed and configured in your development environment before using the Image Hole Filling Package.
 
 ## Usage
 
@@ -112,31 +90,50 @@ NormalizedGrayImage maskImage = HoleFiller.loadImage(maskPath);
 
 // Apply the hole-filling algorithm
 NormalizedGrayImage filledImage = HoleFiller.fillHole(image, maskImage);
-// or by your speed preference call - NormalizedGrayImage filledImageFast = HoleFiller.fillHoleApproximately(image, maskImage);
+// or use the faster approximation: NormalizedGrayImage filledImageFast = HoleFiller.fillHoleApproximately(image, maskImage);
 
 // Save the filled image
 String outputPath = "path/to/filled_image.jpg";
 HoleFiller.saveImage(filledImage, outputPath);
+```
 
-Make sure to replace the file paths (imagePath, maskPath, outputPath) with the actual paths to your image files.
+Make sure to replace the file paths (`imagePath`, `maskPath`, `outputPath`) with the actual paths to your image files.
 
 ## Testing
-The package includes a Testing class that allows you to perform testing on unfilled and filled images. You can use the provided methods, such as showFilledImage(), showHoleBoundaries(), and showComparison(), to visualize and compare the results. **for this you will need to use OpenCV.
-examples:
+
+The package includes a `Testing` class that allows you to perform testing on unfilled and filled images. You can use the provided methods, such as `showFilledImage()`, `showHoleBoundaries()`, and `showComparison()`, to visualize and compare the results.
+
+**Note:**
+Performing testing and visualization requires the use of OpenCV.
+
+Here's an example of using the `Testing` class:
+
+```java
+import com.rashkovits.shir.image.holefilling.HoleFiller;
+import com.rashkovits.shir.image.holefilling.NormalizedGrayImage;
+import com.rashkovits.shir.image.holefilling.Testing;
+
 // Perform testing on the unfilled and filled images
-Testing tester1 = new Testing(imageToFill, fixed1, connectivity);
+Testing tester1 = new Testing(imageToFill, fixed
+
+1, connectivity);
 Testing tester2 = new Testing(imageToFill, fixed2, connectivity);
 
 // Display the filled images and comparison
 tester1.showFilledImage();
 tester1.showHoleBoundaries();
 tester1.showComparison();
-
+```
 
 ## Contributing
+
 Contributions to the Image Hole Filling Package are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
 ## License
-This project is licensed under the MIT License. Please customize the example code and instructions to match the specific methods and functionality provided by your "HoleFiller" class.
+
+This project is licensed under the MIT License. Please customize the example code and instructions to match the specific methods and functionality provided by your `HoleFiller` class.
+```
+
+Please make sure to adjust the instructions and example code to match the specific methods and functionality of your "HoleFiller" class.
 
 
