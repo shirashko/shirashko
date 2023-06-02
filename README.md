@@ -91,7 +91,7 @@ NormalizedGrayImage filledImage = HoleFiller.fillHole(image, maskImage);
 // Save the filled image
 String outputPath = "path/to/filled_image.jpg";
 HoleFiller.saveImage(filledImage, outputPath);
-
+```
 Make sure to replace the file paths (imagePath, maskPath, outputPath) with the actual paths to your image files.
 
 ## Usage
