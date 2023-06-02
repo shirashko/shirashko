@@ -67,6 +67,7 @@ To use the Image Hole Filling Package in your project, follow these steps:
 
 1. Download the `image-hole-filling.jar` file from the [latest release](https://github.com/shirashko/image-hole-filling/releases).
 2. Add the `image-hole-filling.jar` file to your project's classpath.
+**add information about openCV?
 
 ## Usage
 
