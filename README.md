@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://www.svgrepo.com/show/376344/python.svg" width= "40" height= "40">
 
-<img src="https://go.dev/images/go-logo-white.svg" width="40" height="40">
+<img src="https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1627938869270-95JFU0YPSRRE8XU4TFGM/golang+icon.png?format=750w" width="40" height="40">
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width= "40" height= "40">
 
