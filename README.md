@@ -21,12 +21,3 @@ My name is Shir Rashkovits, and I am a Software Engineer at Lightricks, as well 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1bWJMcbcELXTCDXA2-APVmU3vg-wChQucA&usqp=CAU" width= "40" height= "40">
 
 </div>
-
-
-### Additional Skills
-- SQL
-- Docker
-- Kubernetes
-- Google Cloud Services (GCS)
-- Machine Learning
-- Image Processing
