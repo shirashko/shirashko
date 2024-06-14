@@ -28,6 +28,5 @@ My name is Shir Rashkovits, and I am a Software Engineer at Lightricks, as well 
 - Docker
 - Kubernetes
 - Google Cloud Services (GCS)
-- Natural Language Processing (NLP)
 - Machine Learning
 - Image Processing
