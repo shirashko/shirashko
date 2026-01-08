@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi I’m Shir Rashkovits! 👋
 
-My name is Shir Rashkovits, and I am a Software Engineer at Lightricks. I hold a Bachelor’s degree in Computer Science and Cognitive Science from the Hebrew University of Jerusalem. I’m passionate about neural networks, image processing, natural language processing, and algorithms.
+I am an M.Sc. Computer Science student at Tel Aviv University and an experienced Software Engineer. I hold a B.Sc. in Computer Science and Cognitive Science from the Hebrew University of Jerusalem.
 
+My main fields of interest include: Deep Learning & Neural Networks, Natural Language Processing (NLP), Computer Vision & Image Processing and Advanced Algorithms.
+
+I’m passionate about bridging the gap between theoretical research and scalable software solutions.
 
 ## Programing Languages & Tools
 <div style="display:flex;gap:20px;margin-top:20px;flex-wrap:wrap;">
